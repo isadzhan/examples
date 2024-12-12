@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         textTheme: GoogleFonts.robotoTextTheme(),
         primarySwatch: Colors.blue,
       ),
+      darkTheme: ThemeData.dark(),
     );
   }
 }
